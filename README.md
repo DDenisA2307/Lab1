@@ -1,3 +1,4 @@
+'''
 Установлена система CentOS 7
 Весрия ядра:
 
@@ -20,3 +21,4 @@ Installed:
 [vagrant@kernel-update ~]$ uname -r
 6.5.9-1.el7.elrepo.x86_64
 
+'''
